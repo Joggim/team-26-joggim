@@ -53,6 +53,11 @@ K-Talk은 외국인을 위한 한국어 발음 교정 서비스로, 음성 인�
 
 <br>
 
+## 🔗 배포 링크
+👉 [https://k-talkk.vercel.app/](https://k-talkk.vercel.app/)
+
+<br>
+
 ## 🎬 데모 영상
 https://youtu.be/V5ssFi1U5qk
 
